@@ -1,20 +1,18 @@
 {
-    "channels": {
-        "sports": {
-            "channel": [
-                {
-                    "id": "vtv1",
-                    "name": "VTV+ Opción 1",
-                    "img": "https://i.imgur.com/AmsV2Ux.png",
-                    "live": "https://www.capodeportes.fr/play/vtvuruguay.php"
-                },
-                {
-                    "id": "vtv2",
-                    "name": "VTV+ Opción 2",
-                    "img": "https://i.imgur.com/AmsV2Ux.png",
-                    "live": "https://www.capodeportes.fr/play/canal26.php"
-                }
-            ]
-        }
+    "sports": {
+        "channel": [
+            {
+                "id": "vtv1",
+                "name": "VTV+ Opción 1",
+                "img": "https://i.imgur.com/AmsV2Ux.png",
+                "live": "https://www.capodeportes.fr/play/vtvuruguay.php"
+            },
+            {
+                "id": "vtv2",
+                "name": "VTV+ Opción 2",
+                "img": "https://i.imgur.com/AmsV2Ux.png",
+                "live": "https://www.capodeportes.fr/play/canal26.php"
+            }
+        ]
     }
 }
