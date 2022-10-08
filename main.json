@@ -1,1 +1,5 @@
 
+{
+{id: '1', firstName: 'Geraldine', lastName: 'Roberts', email: 'geraldine.roberts@email.com', country: 'South Africa'},
+{id: '2', firstName: 'Walter', lastName: 'Mitty', email: 'w.mitty@email.com', country: 'USA'}
+}
