@@ -6,9 +6,7 @@
                 "name": "VTV+ Opción 1",
                 "img": "https://i.imgur.com/AmsV2Ux.png",
                 "live": [
-                    {
-                        "opt": "https://www.capodeportes.fr/play/vtvuruguay.php"
-                    }
+                        "https://www.capodeportes.fr/play/vtvuruguay.php"
                 ]
             },
             {
@@ -16,9 +14,7 @@
                 "name": "VTV+ Opción 2",
                 "img": "https://i.imgur.com/AmsV2Ux.png",
                 "live": [
-                    {
-                        "opt": "https://www.capodeportes.fr/play/canal26.php"
-                    }
+                        "https://www.capodeportes.fr/play/canal26.php"
                 ]
             }
         ]
