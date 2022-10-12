@@ -1,10 +1,10 @@
 
 {
     "sections":
-      {
+      {[
           "channels": true,
           "movies": false,
           "tvshows": false,
           "anime": false
-      }
+      ]}
 }
