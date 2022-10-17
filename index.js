@@ -3,6 +3,10 @@ let selTVGenre;
 
 let optionsListURL = ['https://raw.githubusercontent.com/apdev55/MyLatinTV/main/channels.json', '', '', '']
 $(document).ready(function () {
+    //Quita el click derecho a los iframes
+    window.frames["hola"].contentDocument.oncontextmenu = function(){
+        return false; 
+    };
     $(".modal-header button").click(function () {
         $(".player-container iframe").remove();
     });
